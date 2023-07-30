@@ -1,0 +1,67 @@
+.main {
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*margin: 20px;
+    padding: 10px;*/
+    background: rgb(247, 249, 239);
+}
+
+.main-heading {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 35px;
+}
+
+img {
+    width: 600px;
+    height: 320px;
+    border: 3px solid #407d06;
+    border-radius: 10px;
+   
+}
+
+
+.main-desc {
+    width: 580px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 550;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.email-input {
+
+    width: 240px;
+    border: 2px solid #055004;
+    border-radius: 4px;
+}
+
+.btn {
+    width: 120px;
+    margin-top: 10px;
+    color: white;
+    background: #88c457;
+    border: 1px solid #055004;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    font-size: medium;
+
+}
+
+.tos {
+    font-family: monospace;
+}
+
+.tos-link {
+    text-align: center;
+    font-weight: 600;
+    color: #055004;
+}
