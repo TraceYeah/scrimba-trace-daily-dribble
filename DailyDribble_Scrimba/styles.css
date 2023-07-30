@@ -1,11 +1,16 @@
 
-/*.return-noTrace-text {
+.return-noTrace-text {
+    text-align: center;
+    font-family: monospace;
+    background: rgb(247, 249, 239);
+    margin:0%
 
 }
 
 .trace-search-link {
-
-}*/
+    color:#055004;
+    font-weight: 600;
+}
 
 .main {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
